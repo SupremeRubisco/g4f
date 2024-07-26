@@ -1,9 +1,5 @@
-import subprocess
-import sys
-
-def install(name):
-    subprocess.call([sys.executable, '-m', 'pip', 'install', 'g4f'])
-  
+import os
+os.system("pip install -U g4f[all]")
 
 from g4f.gui import run_gui
 run_gui()
