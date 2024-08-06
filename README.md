@@ -32,4 +32,4 @@ It just installs the [g4f](https://pypi.org/project/g4f/) python package and run
 All goes to [@xtekky](https://github.com/xtekky), I did nothing.
 
 ## Updates
-Maybe I'll make this more exciting and add other deployments for other services like vercel or glitch
+Maybe I'll make this more exciting and add other deployments for other services like vercel, glitch, or koyeb.
